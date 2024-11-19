@@ -38,7 +38,7 @@ const paddle = {
 const brickConfig = {
     rowCount: 3,
     columnCount: 3,
-    width: 773,
+    width: 612,
     height: 80,
     padding: 10,
     offsetTop: 60,
